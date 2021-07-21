@@ -1,3 +1,5 @@
+![Test](https://github.com/digilabsmaituq/digilabsmaituq.github.io/blob/master/cONCEPTlogo.png?raw=true)
+
 > Please read untill the end to get all the information!
 # What is DIGIFEST 2021?
 DIGIFEST is a tech event in Ummul Quro Islamic Highschool for those who wants to master their tech skills and join our community. This event is not only for those who've already have a skill in tech, but also for those who've just started from scratch. Our mentor will help you to start in our workshop with live hands-on and direct teaching.
@@ -39,3 +41,4 @@ Here are a few things you need to know before entering the event:
 - Not accepted as the official members of Digilab doesn't mean you lose everything. As long as you focus on the workshop, you've already got everything you need.
 - Be kind to each other,
 - Have fun!
+
