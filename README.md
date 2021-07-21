@@ -2,7 +2,7 @@
 
 > Please read untill the end to get all the information!
 # What is DIGIFEST 2021?
-DIGIFEST is a tech event in Ummul Quro Islamic Highschool for those who wants to master their tech skills and join our community. This event is not only for those who've already have a skill in tech, but also for those who've just started from scratch. Our mentor will help you to start in our workshop with live hands-on and direct teaching.
+DIGIFEST is a tech event in Ummul Quro Islamic Highschool for those who want to master their tech skills and join our community. This event is not only for those who've already have a skill in tech, but also for those who've just started from scratch. Our mentor will help you to start in our workshop with live hands-on and direct teaching.
 
 # Timeline
 |Date            |Event                          |
