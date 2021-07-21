@@ -8,3 +8,5 @@
 6. Always follow the main school rules while entering this event.
 
 If you have any question about us, you can contact our [Instagram](https://www.instagram.com/digilab_official/), or join our official [Discord Server](https://discord.gg/tuYP998rA5).
+
+![Alt Text](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
