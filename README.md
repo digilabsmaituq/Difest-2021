@@ -1,2 +1,2 @@
 # Difest-2021
-The Official Repository for DIGIFEST event.
+The Official Repository for DIGIFEST.
